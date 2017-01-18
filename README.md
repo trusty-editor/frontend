@@ -1,3 +1,5 @@
+![Trusty Logo](https://raw.githubusercontent.com/trusty-editor/design/master/trusty.png)
+
 # frontend
 The home of the FrontEnd trait.
 
